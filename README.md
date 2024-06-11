@@ -4,7 +4,7 @@ Bem-vindo ao repositório do Projeto MMT AuroraTech! Este projeto é uma aplica�
 
 ## Sobre o Projeto
 
-Aqui você pode adicionar uma descrição detalhada do projeto, explicando seu propósito, funcionalidades e tecnologias utilizadas. 
+  Nosso projeto é uma agência de vagas online dedicada exclusivamente a mulheres na área de Tecnologia da Informação (TI). Com o objetivo de promover a diversidade e a inclusão no setor, criamos uma plataforma intuitiva e segura onde mulheres talentosas podem encontrar oportunidades de emprego que correspondam às suas habilidades e aspirações. Nossa missão é facilitar a conexão entre candidatas e empresas comprometidas com a igualdade de gênero, oferecendo recursos de suporte, dicas de carreira e uma comunidade de apoio para empoderar mulheres em todas as fases de suas carreiras na TI.
 
 ## Passo a Passo para Rodar o Servidor
 
@@ -19,6 +19,7 @@ git clone https://github.com/AlissonRayanss/Projeto-MMT-AuroraTech
 ### 2. Configurar o Banco de Dados
 
 No MySQL Workbench, abra o arquivo Data base que está no repositório clonado e execute o código SQL contido nele para criar e popular o banco de dados necessário.
+(mude a senha para a senha do seu workbench no arquivo "db-connection.ts" do vscode para ter acesso)
 
 ### 3. Iniciar o Servidor Back-End
 
