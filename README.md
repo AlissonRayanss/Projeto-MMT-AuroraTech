@@ -19,7 +19,7 @@ git clone https://github.com/AlissonRayanss/Projeto-MMT-AuroraTech
 ### 2. Configurar o Banco de Dados
 
 No MySQL Workbench, abra o arquivo Data base que está no repositório clonado e execute o código SQL contido nele para criar e popular o banco de dados necessário.
-(mude a senha para a senha do seu workbench no arquivo "db-connection.ts" do vscode para ter acesso)
+ (mude a senha para a senha do seu workbench no arquivo "db-connection.ts" do vscode para ter acesso)
 
 ### 3. Iniciar o Servidor Back-End
 
